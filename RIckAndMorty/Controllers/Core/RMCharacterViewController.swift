@@ -23,7 +23,8 @@ final class RMCharacterViewController: UIViewController {
                 URLQueryItem(name: "status", value: "alive")
             ]
         )
-        
         print(request.url)
+        
+
     }
 }
